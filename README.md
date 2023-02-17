@@ -22,6 +22,7 @@ This currently is setup to work with VA 0 and .5 motherboards I believe it will 
     - PAL16L8 
     - PAL24
 - Soldering skills
+- Optional: the STL folder has a fake cart slot with catches to hold the Action Replay Cart that I added switches to.
 
 ## Building
 
